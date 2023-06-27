@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+hakohl blog: Welcome to Harald's blog!
 ---
 
